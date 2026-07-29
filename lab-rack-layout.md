@@ -5,8 +5,8 @@
 4. - [ ] [Nas 1]
 5. - [ ] [Nas 2]
 6. - 
-7. - [ ] NVR
-8. - [ ] 
+7. - [ ] [NVR](https://store.ui.com/us/en/category/door-access-nvrs/products/unvr-g2-pro)
+8. - Continued 
 9. - 
 10. - 
 11. -  
