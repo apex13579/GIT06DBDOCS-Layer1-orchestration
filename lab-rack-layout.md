@@ -35,6 +35,9 @@
 - Vape Detection & Air Quality Sensor
 - SuperLink Gateway
 - Floodlight
+- Siren PoE
+- G3 Touch Wall
+- 
 
 # Poe+
 - G6 dome turret x4
@@ -48,5 +51,11 @@
 # Poe+++
 -
 
-# Zigbee
+# Superlink
+- Motion Sensor
+- Environmental Sensor
+- Entry Sensor
+- Glass Break Sensor
+- Smoke and CO Alarm
+- All-In-One Sensor
 - 
