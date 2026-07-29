@@ -1,5 +1,5 @@
 # Rack Layout
-1. -
+1. - 
 2. -
 3. -
 4. -
@@ -15,14 +15,14 @@
 14. -
 15. -
 16. -
-17. -
-18. -
-19. -
-20. -
-21. -
-22. -
-23. -
-24. -
+17. - [ ] (Nas 1)[https://www.lenovo.com/us/en/p/servers-storage/storage/storage-area-network/de-hybrid-flash-array/thinksystem-de120s-2u12-lff-expansion-enclosure/7y63a009na]
+18. - Continued
+19. - [ ] Nas 2
+20. - Continued
+21. - [ ] UPS 2
+22. - Continued
+23. - [ ] UPS 1
+24. - Continued
 
 # Poe
 -
