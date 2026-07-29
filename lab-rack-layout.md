@@ -26,7 +26,7 @@
 
 # Out of the rack
 - [ ] [POE switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-xg-48-poe)
-- [ ] UniFi Travel Router
+- [ ] [UniFi Travel Router](https://store.ui.com/us/en/category/wifi-special-devices/products/utr)
 
 # Poe
 - G6 bullet x
