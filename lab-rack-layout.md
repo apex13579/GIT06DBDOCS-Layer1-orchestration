@@ -7,11 +7,11 @@
 7. - Patch panel
 8. - 
 9. -
-10. - Proxmox pc 1
+10. - Proxmox pc 1 with MINISFORUM ENPBA PCIe To 25G + 2NVME Card
 11. - Continued
-12. - Proxmox pc 2
+12. - Proxmox pc 2 with MINISFORUM ENPBA PCIe To 25G + 2NVME Card
 13. - Continued
-14. - Proxmox pc 3
+14. - Proxmox pc 3 with MINISFORUM ENPBA PCIe To 25G + 2NVME Card
 15. - Continued
 16. - Two nas on shelf
 17. - Continued
