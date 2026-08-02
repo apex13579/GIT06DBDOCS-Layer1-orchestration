@@ -2,10 +2,10 @@
 2. - Router + 8 port switch
 3. - Patch panel
 4. - Main switch
-5. -
-6. -
-7. -
-8. -
+5. - Patch panel
+6. - Poe switch
+7. - Patch panel
+8. - 
 9. -
 10. - Proxmox pc 1
 11. - Continued
