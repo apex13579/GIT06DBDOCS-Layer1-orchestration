@@ -5,8 +5,8 @@
 5. - Patch panel
 6. - Poe switch
 7. - Patch panel
-8. - 
-9. -
+8. - 2x nvidia dgx
+9. - Continued
 10. - Proxmox pc 1 with MINISFORUM ENPBA PCIe To 25G + 2NVME Card
 11. - Continued
 12. - Proxmox pc 2 with MINISFORUM ENPBA PCIe To 25G + 2NVME Card
