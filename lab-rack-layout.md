@@ -46,7 +46,7 @@
 - hard drive
   - [faraday bag](https://www.amazon.com/Faraday-Defense-Tablets-Magnetic-Shielding/dp/B0DBWGJ1RJ/ref=sr_1_16?crid=19C784U7UQW7D&dib=eyJ2IjoiMSJ9.Hkqk18U4oI6GPIZiSMuaSGu97_0K40ZukdW452Ycyxw9ytrbohAeIC8uwYKMGGwv3K8VaEN3nzg_tlF99ZIrGoA_ykuUn2HGPZHync6pYNfuiqiqNoVy6GjWhHpFCY_mQiaRaGywO7eJntjEz-jHj6eJCJCAIxQ-Ogv47QrgNTRq8-KfNPo7fHidJtW7pZAgA8FxVdtgj1ogoRsFLIJlKII0heqHJ1v-_ktS__KEuBU.0Eh1SpvvpVPVaLSa-l4G9xFUlRHi-00ZpDSAli7ICps&dib_tag=se&keywords=faraday%2Bbag&qid=1785958021&sprefix=faraday%2Bbag%2Caps%2C156&sr=8-16&th=1)
   - [safe](https://www.amazon.com/SentrySafe-1200-Fireproof-Lock-Cubic/dp/B008HZUI1G/ref=sr_1_21?crid=5V4ABII2ORJ6&dib=eyJ2IjoiMSJ9.PCBPG6eUA2BMrSs6_fgX8gysyURDvQ8kaZbW089UGs1njI7d0mEzJmtrIK5MnySHpWbZcpWoOM8r_RbAQhYT1oi0O5FaYFjH6a7ZO-8-9mgGsS4KawWMUdKwJsgVg1NOJCRg6NBmpx9HhlNza4__u0DphKDVD2PUaF24B9IDrqTbN2AhDgHsyVrSEamJq22rfjf6vJhhcCWv474vVMkF8d6Q-TGxEYARVpyzSXu-f20mZGwrzrUi_L6QsP5J5a85m07P_Kg0b3eefyRgHyvNwbcZuuhhcTEhittUT3cUfqg.63oMTCzEd4ZtIq9dfeIIrkmCf4cps9ObV_Z6JBj7q5I&dib_tag=se&keywords=fireproof%2Bsafe&qid=1785958227&sprefix=fireproof%2Bsafe%2Caps%2C146&sr=8-21&th=1)
-- 3d printer
+- [3d printer](https://www.amazon.com/Snapmaker-Toolheads-Toolchanger-Calibration-270x270x270mm/dp/B0GYP89RTN?ref_=automaticdeals_bs_dp)
 - 
 
 # edc
@@ -55,3 +55,24 @@
 - [portable router](https://store.ui.com/us/en/category/wifi-special-devices/products/utr)
 - [yubico](https://www.amazon.com/Yubico-Two-factor-authentication-security-certified/dp/B08DHL1YDL/ref=sr_1_1_sspa?crid=1O1YTWYNFIRJ9&dib=eyJ2IjoiMSJ9.fAEqZG8UpzgMR2j5D_YbnR5bqeeQfLudiZR2kSaW3b7VoYlDdpwvr_kkz9Vz1JNy5niNpNqgflNVzG1tCFEiHAD-vIf8ZIWav-JjCW4BfvoCvOQGz4qVMKemcZlwrq_kZy0oDIi_-l5JO7YkLm17FJNdACUAema22KnYX8izI-E9RbaRlwRnsIv82CqS80ZoXvriT_JoPJZCgzb5xbR6EcTSnu5pvFawklymhzpqr2k.GojJj1f4YGnZAm_ctiFooQlgIYfNrCb4vPQp-0F5iKA&dib_tag=se&keywords=yubikey%2B5c%2Bnfc&qid=1785947807&sprefix=yubi%2Caps%2C152&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - 
+
+# work bench
+- [work bench](https://www.amazon.com/Work-Bench-Workbench-Adjustable-Warehouse47-2/dp/B0GTQKV3L6/ref=sr_1_39?dib=eyJ2IjoiMSJ9.oEiJg2f6IEk2X_nkezznr2N7ey15Zm3rNRZasKeNFlVMBS2ZTPXPx829HMI8EG_wm1fO08tM-5mCfvlUJn844mWf3CayoVyrxlnR0NHmH20FURrqxkeA50gh9jGbbDgXFrt5-6AR1cJYebHwr9Z70SMNhm8hk5ITDxNrxb9J8uRKeKLRDYxc62vRdKrNjo8bHd0m1bg_hLon372lR7KIaQ.ROXtqH_HyVOFqGvk-nW3sO0LjPAVkMPk_cytBSlEXzk&dib_tag=se&keywords=work%2Bbench&qid=1785959404&sr=8-39&xpid=f-lObU58eAoHS&th=1)
+- [tool box](https://www.amazon.com/P-I-T-Portable-Magnetic-Locking-Storage/dp/B0C4D9J2VQ/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.efd10cd5-92e3-4a17-bd0d-6155497ae793%3Aamzn1.sym.efd10cd5-92e3-4a17-bd0d-6155497ae793&crid=369V5FBZ7KHN0&cv_ct_cx=mini%2Btool%2Bbox&keywords=mini%2Btool%2Bbox&pd_rd_i=B0B11V2274&pd_rd_r=5caa17b2-567a-4dfe-aebc-e69860334a6d&pd_rd_w=UtvOx&pd_rd_wg=iwj8W&pf_rd_p=efd10cd5-92e3-4a17-bd0d-6155497ae793&pf_rd_r=84TKR6EJ5H5BK8Z9V0M5&qid=1785960621&s=hi&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=mini%2Btool%2Bbox%2Caps%2C201&sr=1-52-7dc58e9f-45bb-4a70-b9bf-41aa56080021-spons&xpid=U__26OG00OIpf&aref=2t3PRpqvs4&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+- [tool box extention](https://www.amazon.com/P-I-T-Portable-Magnetic-Locking-Storage/dp/B0C4DD69PD/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.efd10cd5-92e3-4a17-bd0d-6155497ae793%3Aamzn1.sym.efd10cd5-92e3-4a17-bd0d-6155497ae793&crid=369V5FBZ7KHN0&cv_ct_cx=mini%2Btool%2Bbox&keywords=mini%2Btool%2Bbox&pd_rd_i=B0B11V2274&pd_rd_r=5caa17b2-567a-4dfe-aebc-e69860334a6d&pd_rd_w=UtvOx&pd_rd_wg=iwj8W&pf_rd_p=efd10cd5-92e3-4a17-bd0d-6155497ae793&pf_rd_r=84TKR6EJ5H5BK8Z9V0M5&qid=1785960621&s=hi&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=mini%2Btool%2Bbox%2Caps%2C201&sr=1-52-7dc58e9f-45bb-4a70-b9bf-41aa56080021-spons&xpid=U__26OG00OIpf&aref=2t3PRpqvs4&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+- [Printer stand](https://www.amazon.com/LEYNOT-Printer-Filament-Storage-Charging/dp/B0GZKBCQMJ/ref=sr_1_11?crid=B599UD93SL6E&dib=eyJ2IjoiMSJ9.RwSNOHqwVLCfLxBXvIMUXnHVeli4WXQHG71sAPEEIvbEVlsO1F-416DUX7iyTnbaT1qdUjz7GiHfM6D6-gC_5G3DldZZsAcNKW1-X4cQVakmEoLM0pRgfu_6gDYCmDSwmqWrG_mdN-ygvMkJHstHSt-N24URflYX4DNI8rN_FZ5zUx0N_sYBuO2IcPYLqCA0EOJFU26d80f7vHaS0EUb82xE3drRWcHcQgLD6pooJU4.PM9rBm03wPVU7PNUKKFFbmx8nlPT3msRhhIzj8JliH0&dib_tag=se&keywords=3d%2Bprinter%2Bstand&qid=1785961083&sprefix=3d%2Caps%2C171&sr=8-11&th=1)
+- [tool kit](https://www.amazon.com/iFixit-Repair-Business-Toolkit-Smartphone/dp/B0BXYBMGDY/ref=sr_1_2?crid=3JJJXMZ5OCLLD&dib=eyJ2IjoiMSJ9.R7AOLLjCF4Eq86qJ2s7TYR_Uuv9dvLszjUnUhqyOEqQujAxrLtd6zV-boS_dX-9AW8gzNQ-3cup19MmkwO3OT5jo6wOkzmjxNM7nW5X-BgUQWDA8x2rBM-1kLFFs_YtP7qB8xvVPPQtr6XQ91RkBFPWBuKS0v1RXCSjSoqq5Sgviama13pp-EXGxGCMR0CUbq1g9nTnyFNLF6UmRbK5RTdHyrihceER3ooVo9eObQHE.kmODeY_GwCSg4_qrgJzMfeIF6xLuFYW58TiFO-OfHUE&dib_tag=se&keywords=ifixit%2Btool%2Bkit&qid=1785961441&sprefix=Ifixit%2Caps%2C165&sr=8-2&th=1)
+- [soldering kit](https://www.amazon.com/iFixit-FixHub-Power-Soldering-Toolkit/dp/B0DH7FMKH1/ref=sr_1_1?crid=3JJJXMZ5OCLLD&dib=eyJ2IjoiMSJ9.R7AOLLjCF4Eq86qJ2s7TYR_Uuv9dvLszjUnUhqyOEqQujAxrLtd6zV-boS_dX-9AW8gzNQ-3cup19MmkwO3OT5jo6wOkzmjxNM7nW5X-BgUQWDA8x2rBM-1kLFFs_YtP7qB8xvVPPQtr6XQ91RkBFPWBuKS0v1RXCSjSoqq5Sgviama13pp-EXGxGCMR0CUbq1g9nTnyFNLF6UmRbK5RTdHyrihceER3ooVo9eObQHE.kmODeY_GwCSg4_qrgJzMfeIF6xLuFYW58TiFO-OfHUE&dib_tag=se&keywords=ifixit+tool+kit&qid=1785961441&sprefix=Ifixit%2Caps%2C165&sr=8-1)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
