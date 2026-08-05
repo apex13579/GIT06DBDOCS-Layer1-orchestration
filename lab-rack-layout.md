@@ -50,7 +50,7 @@
 - 
 
 # edc
-- system 76 laptop
+- [system 76 laptop](https://system76.com/laptops/pangolin-pro)
 - [spectrum analyzer](https://store.ui.com/us/en/category/accessories-access-point/products/wm-w)
 - [portable router](https://store.ui.com/us/en/category/wifi-special-devices/products/utr)
 - [yubico](https://www.amazon.com/Yubico-Two-factor-authentication-security-certified/dp/B08DHL1YDL/ref=sr_1_1_sspa?crid=1O1YTWYNFIRJ9&dib=eyJ2IjoiMSJ9.fAEqZG8UpzgMR2j5D_YbnR5bqeeQfLudiZR2kSaW3b7VoYlDdpwvr_kkz9Vz1JNy5niNpNqgflNVzG1tCFEiHAD-vIf8ZIWav-JjCW4BfvoCvOQGz4qVMKemcZlwrq_kZy0oDIi_-l5JO7YkLm17FJNdACUAema22KnYX8izI-E9RbaRlwRnsIv82CqS80ZoXvriT_JoPJZCgzb5xbR6EcTSnu5pvFawklymhzpqr2k.GojJj1f4YGnZAm_ctiFooQlgIYfNrCb4vPQp-0F5iKA&dib_tag=se&keywords=yubikey%2B5c%2Bnfc&qid=1785947807&sprefix=yubi%2Caps%2C152&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
