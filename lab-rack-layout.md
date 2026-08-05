@@ -44,13 +44,13 @@
 
 # air gapped
 - hard drive
-  - faraday bag
-  - safe
+  - [faraday bag](https://www.amazon.com/Faraday-Defense-Tablets-Magnetic-Shielding/dp/B0DBWGJ1RJ/ref=sr_1_16?crid=19C784U7UQW7D&dib=eyJ2IjoiMSJ9.Hkqk18U4oI6GPIZiSMuaSGu97_0K40ZukdW452Ycyxw9ytrbohAeIC8uwYKMGGwv3K8VaEN3nzg_tlF99ZIrGoA_ykuUn2HGPZHync6pYNfuiqiqNoVy6GjWhHpFCY_mQiaRaGywO7eJntjEz-jHj6eJCJCAIxQ-Ogv47QrgNTRq8-KfNPo7fHidJtW7pZAgA8FxVdtgj1ogoRsFLIJlKII0heqHJ1v-_ktS__KEuBU.0Eh1SpvvpVPVaLSa-l4G9xFUlRHi-00ZpDSAli7ICps&dib_tag=se&keywords=faraday%2Bbag&qid=1785958021&sprefix=faraday%2Bbag%2Caps%2C156&sr=8-16&th=1)
+  - [safe](https://www.amazon.com/SentrySafe-1200-Fireproof-Lock-Cubic/dp/B008HZUI1G/ref=sr_1_21?crid=5V4ABII2ORJ6&dib=eyJ2IjoiMSJ9.PCBPG6eUA2BMrSs6_fgX8gysyURDvQ8kaZbW089UGs1njI7d0mEzJmtrIK5MnySHpWbZcpWoOM8r_RbAQhYT1oi0O5FaYFjH6a7ZO-8-9mgGsS4KawWMUdKwJsgVg1NOJCRg6NBmpx9HhlNza4__u0DphKDVD2PUaF24B9IDrqTbN2AhDgHsyVrSEamJq22rfjf6vJhhcCWv474vVMkF8d6Q-TGxEYARVpyzSXu-f20mZGwrzrUi_L6QsP5J5a85m07P_Kg0b3eefyRgHyvNwbcZuuhhcTEhittUT3cUfqg.63oMTCzEd4ZtIq9dfeIIrkmCf4cps9ObV_Z6JBj7q5I&dib_tag=se&keywords=fireproof%2Bsafe&qid=1785958227&sprefix=fireproof%2Bsafe%2Caps%2C146&sr=8-21&th=1)
 - 3d printer
 - 
 
 # edc
-- [system 76 laptop](https://system76.com/laptops/pangolin-pro)
+- [system 76 laptop](https://system76.com/laptops/darter-pro)
 - [spectrum analyzer](https://store.ui.com/us/en/category/accessories-access-point/products/wm-w)
 - [portable router](https://store.ui.com/us/en/category/wifi-special-devices/products/utr)
 - [yubico](https://www.amazon.com/Yubico-Two-factor-authentication-security-certified/dp/B08DHL1YDL/ref=sr_1_1_sspa?crid=1O1YTWYNFIRJ9&dib=eyJ2IjoiMSJ9.fAEqZG8UpzgMR2j5D_YbnR5bqeeQfLudiZR2kSaW3b7VoYlDdpwvr_kkz9Vz1JNy5niNpNqgflNVzG1tCFEiHAD-vIf8ZIWav-JjCW4BfvoCvOQGz4qVMKemcZlwrq_kZy0oDIi_-l5JO7YkLm17FJNdACUAema22KnYX8izI-E9RbaRlwRnsIv82CqS80ZoXvriT_JoPJZCgzb5xbR6EcTSnu5pvFawklymhzpqr2k.GojJj1f4YGnZAm_ctiFooQlgIYfNrCb4vPQp-0F5iKA&dib_tag=se&keywords=yubikey%2B5c%2Bnfc&qid=1785947807&sprefix=yubi%2Caps%2C152&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
