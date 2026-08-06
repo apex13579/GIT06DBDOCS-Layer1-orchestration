@@ -40,6 +40,9 @@
 - [door bell](https://store.ui.com/us/en/category/physical-security-doorbells/collections/pro-store-doorbells-chimes/products/uvc-g4-doorbell-pro-poe-kit?variant=uvc-g4-doorbell-pro-poe-kit)
 - [antenna](https://www.amazon.com/Antennas-Direct-ClearStream-Multi-directional-Installation/dp/B008PBTPOI/ref=sr_1_41?crid=2KPA1DYURQJVS&dib=eyJ2IjoiMSJ9.U4yPc-wfVjLXQdnbLswa6XiJxZuCMp_zFhPQCgfNdqN3q9VzG01tC2LsA2n9H2KuF0f25o3n1xNnthLusPZTtLLrTsUmxFOT-EKahb7vVI4CaNqT8gWsIwzrWg_rT6CNpz-Twc0YIHukLdynKuwpl-Q6lb4LlqgSMRZF9Xn1tEeus1c1Ir65vB3eB1SSUBa1RiB8jy_jW0KYzLkURI1B6g.ES69xiZsyFZPP12xlazUIMCPmcqb0z5-osCFA5VCpS0&dib_tag=se&keywords=tv+antenna&qid=1785947012&sprefix=tv+antenna%2Caps%2C191&sr=8-41&xpid=GSQkT4aIQGPE3)
 - [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-5)
+- lte filter
+- coax lightning arrester
+- 
 - 
 
 # air gapped
