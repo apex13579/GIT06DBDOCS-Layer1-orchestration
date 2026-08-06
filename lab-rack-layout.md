@@ -1,7 +1,7 @@
 1. - [Kvm](https://www.amazon.com/gp/aw/d/B09B9SPK7L/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=ca563c023c569cbea2507ed528383766&hsa_cr_id=0&qid=1785941802&sr=1-2-a094db1c-5033-42c6-82a2-587d01f975e8&i=aps&aref=yCEfCIg9vl&ref_=sbx__sbtcd_asin_1_title&pd_rd_w=h6Oak&content-id=amzn1.sym.c56732d8-bc10-437d-8fb9-e3f95a7a60c9%3Aamzn1.sym.c56732d8-bc10-437d-8fb9-e3f95a7a60c9&pf_rd_p=c56732d8-bc10-437d-8fb9-e3f95a7a60c9&pf_rd_r=XJ520G6X9KNQG61KNX3A&pd_rd_wg=GEFdb&pd_rd_r=8829c0f3-0cc7-4a32-87cd-af85ccb786e5&th=1)
 2. - [Gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-fiber/products/ucg-fiber)
 3. - [Patch panel]
-4. - [main switch](https://store.ui.com/us/en/category/switching-aggregation/products/usw-aggregation)
+4. - [main switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-48-poe)
 5. - 
 6. - 
 7. - 
@@ -40,8 +40,8 @@
 - [door bell](https://store.ui.com/us/en/category/physical-security-doorbells/collections/pro-store-doorbells-chimes/products/uvc-g4-doorbell-pro-poe-kit?variant=uvc-g4-doorbell-pro-poe-kit)
 - [antenna](https://www.amazon.com/Antennas-Direct-ClearStream-Multi-directional-Installation/dp/B008PBTPOI/ref=sr_1_41?crid=2KPA1DYURQJVS&dib=eyJ2IjoiMSJ9.U4yPc-wfVjLXQdnbLswa6XiJxZuCMp_zFhPQCgfNdqN3q9VzG01tC2LsA2n9H2KuF0f25o3n1xNnthLusPZTtLLrTsUmxFOT-EKahb7vVI4CaNqT8gWsIwzrWg_rT6CNpz-Twc0YIHukLdynKuwpl-Q6lb4LlqgSMRZF9Xn1tEeus1c1Ir65vB3eB1SSUBa1RiB8jy_jW0KYzLkURI1B6g.ES69xiZsyFZPP12xlazUIMCPmcqb0z5-osCFA5VCpS0&dib_tag=se&keywords=tv+antenna&qid=1785947012&sprefix=tv+antenna%2Caps%2C191&sr=8-41&xpid=GSQkT4aIQGPE3)
 - [sub switch](https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-5)
-- lte filter
-- coax lightning arrester
+- [lte filter](https://www.amazon.com/SiliconDust-LPF-608M-Filter-Antennas-Standard/dp/B08QDWP43V/ref=sr_1_4?crid=2D6TPV92AW6J9&dib=eyJ2IjoiMSJ9.peMokfrg5uAx1QbYO9XbjUvsgmFi-PlLBnbCoaasr8cR6vc3TPXxWWZ897kjZYSjRs_6f9H32NmHX_mOD6UfA_RkYH5-Cfw5cPpy-vegYmxpCw2tkrGZeb8BhEHY4JX1aLjNCVno1RLU0vAo527D0ybrP9o0oRhV6KCX99-3DiuIRWXajzi73O8Il5mpN1cPZfnjfpjaKHS2Au7BuTt45927DMO76259wUam6Rt3lXs._77ntid0r6gvn6PUsP-cOpnMu-7YaFPt-8mmjhDtQsA&dib_tag=se&keywords=lte+filter&qid=1786020980&sprefix=lte+filter%2Caps%2C141&sr=8-4)
+- [coax lightning arrester](https://www.amazon.com/Proxicast-Lightning-Arrester-Suppressor-Connectors/dp/B0CBW5MM13/ref=sr_1_5?crid=2HJIYQFXJBRU&dib=eyJ2IjoiMSJ9.p2OTDUoy-y33XLsPxaKfref-7uiW4qcTy9z9RrbWhtHgfAZ4NNcX4GUp4gicYYSRGsxkfbK1Geo02gbSdDQi_10HXnGQcpyCLom4ONTTxkZhAR96mKtGD1Sp1w-lMDmHYseRpHEKMJVSTC3krdMPI72XSXmLw31GHZHvwq4vIhfDOaweJN1BUNEx9TFxfdQ20xFmCB6SZzUcupeHGOdnddH5-4V2iVccNIyE0rNtUAk._7IcSw8R899ZDtT9okJ6AAXksV3GddAO8EE7D0pOGjE&dib_tag=se&keywords=coax%2Blightning%2Barrester&qid=1786020887&sprefix=coax%2Blightning%2Barrester%2Caps%2C149&sr=8-5&th=1)
 - 
 - 
 
