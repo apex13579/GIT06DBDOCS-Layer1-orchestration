@@ -1,6 +1,6 @@
 # Devices
 ## Main pc
-### Windows 11 LTSC
+### Pop_os
 - Steam
 - Brave
   #### Bookmarks
