@@ -1,7 +1,7 @@
 1. - [Kvm](https://www.amazon.com/gp/aw/d/B09B9SPK7L/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=ca563c023c569cbea2507ed528383766&hsa_cr_id=0&qid=1785941802&sr=1-2-a094db1c-5033-42c6-82a2-587d01f975e8&i=aps&aref=yCEfCIg9vl&ref_=sbx__sbtcd_asin_1_title&pd_rd_w=h6Oak&content-id=amzn1.sym.c56732d8-bc10-437d-8fb9-e3f95a7a60c9%3Aamzn1.sym.c56732d8-bc10-437d-8fb9-e3f95a7a60c9&pf_rd_p=c56732d8-bc10-437d-8fb9-e3f95a7a60c9&pf_rd_r=XJ520G6X9KNQG61KNX3A&pd_rd_wg=GEFdb&pd_rd_r=8829c0f3-0cc7-4a32-87cd-af85ccb786e5&th=1)
 2. - [Gateway](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-fiber/products/ucg-fiber)
 3. - [Patch panel]
-4. - [main switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-48-poe)
+4. - [main switch](https://store.ui.com/us/en/category/switching-aggregation/products/usw-pro-aggregation)
 5. - 
 6. - 
 7. - 
@@ -27,7 +27,7 @@
 
 
 # on wall in data room
-- [poe switch](https://store.ui.com/us/en/category/switching-professional/products/usw-pro-48-poe)
+- [poe switch](https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-48-poe)
 - [tower ups](https://store.ui.com/us/en/category/integrations-power-tech/products/ups-tower-us)
 - [tv tuner box](https://www.amazon.com/SiliconDust-HDHomeRun-Flex-ATSC-NextGen/dp/B092GCN9NL/ref=sr_1_1?crid=1GQN63MI6PSD2&dib=eyJ2IjoiMSJ9.D5NPLy5wxz6XSEeI5dsWrAniiILNXwdqVEER-YTGSx4PAvDKQq_6fEqfLGqYBfWCZXu7MoBSiQaf_51p95m5HAL21GoBKZGS_mK7nXDzrh1RGBhlv5zO0BmK_4TkaJurq3dsNQegEi7SCPrg8zYGiGL-yrmIx9ji-ktTFvdRtfBK9cO-PBuE6GTKjuqD2fqX0Y0D7nLXuPYjKp1fCnJSdzi6zzX5Lku990yXTF4P-Ys.-OOUSZ34mcyvMUrs5-_M75O2jo35bGWGXSkazRTgJ9c&dib_tag=se&keywords=silicon+dust&qid=1785946813&sprefix=silicon+dust%2Caps%2C262&sr=8-1)
 - 
