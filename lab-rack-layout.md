@@ -8,11 +8,11 @@
 8. - 
 9. - 
 10. - 
-11. - 
-12. - [nvr](https://store.ui.com/us/en/category/door-access-nvrs/products/envr)
+11. - [nvr](https://store.ui.com/us/en/category/door-access-nvrs/products/envr)
+12. - continued
 13. - continued
-14. - continued
-15. - [cluster of mini pc](https://system76.com/mini/meerkat)  [Media converter](https://www.amazon.com/Sonnet-Thunderbolt-Gigabit-Ethernet-Included/dp/B07N327RJ2/ref=sr_1_1?adgrpid=1338106214476263&dib=eyJ2IjoiMSJ9.3CR441rQZdLhLELnZWIQ7A.xp_krgmnzJU5YE5CsUqX2_mJPVcgnKU-mSFtST2EEmw&dib_tag=se&gb=2&hvadid=83631853452509&hvbmt=be&hvdev=c&hvexpln=0&hvlocphy=74101&hvnetw=o&hvocijid=7291168908663507973--&hvqmt=e&hvtargid=kwd-83631979450490%3Aloc-190&hydadcr=24110_13515023&keywords=solo10g-sfp-t3&mcid=cd9a0799847535a993a31c9e80eba5b2&qid=1786024258&sr=8-1)
+14. - [fan](https://www.amazon.com/PROCOOL-SX440-Airflow-Theater-Cooling/dp/B00O34Q968/ref=sr_1_176?crid=3U6X1BP217EET&dib=eyJ2IjoiMSJ9.vC78bNg2l6LGkUQyqTdYd3yXPZ1dWuATFWJHGg-at3tWiJgyh5pBnHmVbBIXBM09CFxNZDKRz7A--1i9N0pEWJrcWO-BRNTdE4WGzm1QSC86R_wstnx9EQs2A4CzbjnCC8yExbpTGNykWTxle34VOxQdF4jcx8AHwIvRW0cr4g4.ms1fMAAzp1Q6s7EUPMIzQ3M5OLpshvMlACEyBmMU5i8&dib_tag=se&keywords=server+rack+fan&qid=1786024886&sprefix=server+rack+fan%2Caps%2C154&sr=8-176&xpid=Xwh5I9wRGtsW7)  [Media converter](https://www.amazon.com/Sonnet-Thunderbolt-Gigabit-Ethernet-Included/dp/B07N327RJ2/ref=sr_1_1?adgrpid=1338106214476263&dib=eyJ2IjoiMSJ9.3CR441rQZdLhLELnZWIQ7A.xp_krgmnzJU5YE5CsUqX2_mJPVcgnKU-mSFtST2EEmw&dib_tag=se&gb=2&hvadid=83631853452509&hvbmt=be&hvdev=c&hvexpln=0&hvlocphy=74101&hvnetw=o&hvocijid=7291168908663507973--&hvqmt=e&hvtargid=kwd-83631979450490%3Aloc-190&hydadcr=24110_13515023&keywords=solo10g-sfp-t3&mcid=cd9a0799847535a993a31c9e80eba5b2&qid=1786024258&sr=8-1)
+15. - [cluster of mini pc](https://system76.com/mini/meerkat)  
 16. - continued
 17. - [nas](https://store.ui.com/us/en/category/network-storage/products/unas-pro-8)
 18. - continued
