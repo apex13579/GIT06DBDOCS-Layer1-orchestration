@@ -2,3 +2,4 @@
 - [Maintenence practices](maintenance.md)
 - [Rack plan](lab_rack_layout.md)
 - [Lab branding](Lab_branding.md)
+- [support racks](Support-racks.md)
